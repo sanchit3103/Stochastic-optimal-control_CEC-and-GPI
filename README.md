@@ -9,17 +9,17 @@ This project focuses on the approaches to design a control policy for a ground d
 
 ## Implementation of CEC approach in form of GIF files
 
-#### Trajectory tracking for a set of optimal parameters after tuning while ignoring noise
+#### a) Trajectory tracking using a set of tuned optimal parameters with noise ignored
 <p align="center">
 
-  <img src = "https://user-images.githubusercontent.com/4907348/209074759-047b116a-a664-485b-8510-9fe8c29cbafb.gif"/>
+  <img src = "https://user-images.githubusercontent.com/4907348/209074759-047b116a-a664-485b-8510-9fe8c29cbafb.gif" height="400"/>
   
 </p>
 
-#### Trajectory tracking for a set of optimal parameters after tuning while considering noise
+#### b) Trajectory tracking using a set of tuned optimal parameters with noise considered
 <p align="center">
 
-  <img src = "https://user-images.githubusercontent.com/4907348/209078036-3ecc789d-1363-4c18-bc9f-fe20b57bb4f6.gif"/>
+  <img src = "https://user-images.githubusercontent.com/4907348/209078036-3ecc789d-1363-4c18-bc9f-fe20b57bb4f6.gif" height="400"/>
   
 </p>
 
